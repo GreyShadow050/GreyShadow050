@@ -1,0 +1,2 @@
+string[] myArray{"Hi","Hello","Goodmorning"},
+Console.Writeline(myArray[2])
